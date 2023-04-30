@@ -1,5 +1,7 @@
 # AngularSimpleCrud
 
+Simple Crud Aplication that saves users in an array. This is my first Angular Aplication.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
 ## Development server
